@@ -1,4 +1,4 @@
-# 💻 Discord Login Page Clone
+# 💻 Discord Login Page(imaginary)
 
 A dummy clone of the **Discord login page** built using pure HTML and CSS. This project replicates the layout and design of Discord’s login UI for frontend practice. It has no backend or login functionality — it's purely for visual and structural learning.
 
